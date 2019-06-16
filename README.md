@@ -22,12 +22,18 @@
      I used that Embedding in RNNs.
          5.By analyzer I extracted character level and word level information this are available with 
          Vectorizer(tfidf,count)
-
+         
+Binary Classification:--
+1.First I Converted text data to vectors I applied Basics to Different types of Generative and Disciminative Models
+like Naive Bays,Logistic Regression,SVM,LDA ect..
+2.After That I Applied Different types of Ensembling Techniques Like Bagging(Random Forest),Boosting(XGBoost) with different levels like character level and word level.
+3.At This stage I got some explosure on Modeling I tried with Deep learning Techniques like RNN(LSTM),CNN,Bi-LSTM,Ects.
+I changed weights with Word Embeddings Also I expected LSTMS Might Outperform the other Models Because LSTMS are most suitable for Sequence prediction problems.
+Sake of resource problem I didnot applied complete Deeplearning modeling got moderate results.
 
 Final Results
 
 From Above Analysis I came to the conclusion that XGboost with Charecter level Model Give good results.
-
 From The Above results we can say Model Can Able to Differenced messages containt intent with 70% Confidence.
 
 F1 Score is Also Showing that How much Our model Confident to predict Based on Precision and Recall.
