@@ -3,7 +3,7 @@ Code files
 
 1.Research And RoughWork.ipynb 
 
-  Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just RoughWork Analysis.
+  Its is research analysis using different Datacleaning techniques and different Modeling techniques.Its just RoughWork Analysis.
  
 2.Final_Solution.ipynb
 
