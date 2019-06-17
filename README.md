@@ -3,7 +3,7 @@ Code files
 1.Research And RoughWork.ipynb 
   Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just RoughWork Analysis.
  
-2..Solution.ipynb
+2.Final_Solution.ipynb
 This is Final Submission of code And Analysis.
 
 
@@ -32,6 +32,7 @@ Steps used for solving the problem.
          Vectorizer(tfidf,count)
          
 Binary Classification:--
+
 1.First I Converted text data to vectors I applied Basics to Different types of Generative and Disciminative Models
 like Naive Bays,Logistic Regression,SVM,LDA ect..
 2.After That I Applied Different types of Ensembling Techniques Like Bagging(Random Forest),Boosting(XGBoost) with different levels like character level and word level.
@@ -48,5 +49,6 @@ F1 Score is Also Showing that How much Our model Confident to predict Based on P
 F1 -Score 81%
 
 Future Work:--
+
 1.I tried to Apply Charecter level Word Embedding like FastText And ELMO Word Embedding Modeling Techniques But Sake of resource Problem I didnot Applied.
 2.ELMO or FastText Model will definetlly Improve Classification Accuracy.
