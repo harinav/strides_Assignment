@@ -1,4 +1,12 @@
 # strides_Assignment
+Code files
+1.Research.ipynb 
+  Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just Ruff Analysis.
+ 
+2..Solution.ipynb
+This is Final Submission of code And Analysis.
+
+
 1.This is Binary Classification Problem.
 Steps used for solving the problem.
   1.Preprocessing.
