@@ -1,13 +1,17 @@
 # strides_Assignment
 Code files
+
 1.Research And RoughWork.ipynb 
+
   Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just RoughWork Analysis.
  
 2.Final_Solution.ipynb
+
 This is Final Submission of code And Analysis.
 
 
 1.This is Binary Classification Problem.
+
 Steps used for solving the problem.
   1.Preprocessing.
   2.Text to Sequence/Text  to Vector Convertion.
