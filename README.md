@@ -1,7 +1,7 @@
 # strides_Assignment
 Code files
-1.Research.ipynb 
-  Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just Ruff Analysis.
+1.Research And RoughWork.ipynb 
+  Its is research analysis using different Datacleaning techniques and different Modeling technique.Its just RoughWork Analysis.
  
 2..Solution.ipynb
 This is Final Submission of code And Analysis.
